@@ -80,8 +80,6 @@
             width: 100%;
             z-index: 1000;
         }
-
-       
     </style>
     <title><X-TripGo-Key></title>
 </head>
@@ -90,9 +88,11 @@
     <!-- Navigation Bar -->
 
     <div id="navstyle">
-        <img src="icon/OMBH.png" alt="Logo" style="width: 35px; height: 35px; margin-right: 10px; vertical-align: middle;">
+        <img src="icon/OMBH.png" alt="Logo"
+            style="width: 35px; height: 35px; margin-right: 10px; vertical-align: middle;">
         OMBH-FH Optimizing Mobility Based Healthcare Facilities in Hallein
-        <a href="https://arcg.is/0O45OP1" target="_blank" style="background-color: #E3E0DB; color: #4B6151; border: none; padding: 5px 15px; font-size: 16px; border-radius: 5px; cursor: pointer; text-decoration: none; margin-left: auto;">
+        <a href="https://arcg.is/0O45OP1" target="_blank"
+            style="background-color: #E3E0DB; color: #4B6151; border: none; padding: 5px 15px; font-size: 16px; border-radius: 5px; cursor: pointer; text-decoration: none; margin-left: auto;">
             Suitability Analysis
         </a>
     </div>
@@ -134,7 +134,7 @@
             var div = L.DomUtil.create('div', 'info-box'); // Create a div element for the box
             div.innerHTML = `
             <div style="background-color: white; padding: 10px; border: 2px solid #ccc; border-radius: 20px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); height:250px;width:270px">
-                <h4>This Web Map Visualize</h4>
+               
                 <p>Here is some text information.</p>
                 <img src="icon/hallein.jpg" alt="img" style="width: 250px; height: 120px; border-radius: 5px;">
             </div>
@@ -176,7 +176,7 @@
 
 
         var baseMaps = {};
-        L.control.layers(baseMaps, { "Google Satellite": layer_GoogleSatellite_1, "Carto Map": CartoDB_Positron, "Open Street Map":OpenStreetMap_Mapnik, "Landuse <br><img src='icon/landuse.jpg' style='width: 150px; height: 140px; display: block; margin-top: 5px;'>": mapTilerRasterLayer }, { collapsed: false }).addTo(map);
+        L.control.layers(baseMaps, { "Google Satellite": layer_GoogleSatellite_1, "Carto Map": CartoDB_Positron, "Open Street Map": OpenStreetMap_Mapnik, "Landuse <br><img src='icon/landuse.jpg' style='width: 150px; height: 140px; display: block; margin-top: 5px;'>": mapTilerRasterLayer }, { collapsed: false }).addTo(map);
 
 
 
