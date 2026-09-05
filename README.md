@@ -213,17 +213,38 @@ The StoryMap provides a visual explanation of the:
 
 ## 📊 Results
 
-The weighted-overlay analysis produced a spatial suitability surface for potential healthcare facility development in Hallein.
+The weighted-overlay analysis produced a spatial suitability surface for identifying potential healthcare facility locations across the Hallein study area.
 
-Based on the final suitability results:
+### Final Suitability Analysis
 
-- **Six candidate sites** were identified.
-- **Four sites** were located within highly suitable areas.
-- **Two sites** were associated with moderately suitable combinations of suitability classes.
+<p align="center">
+  <img src="assets/images/ombh-final-suitability-zones.png"
+       alt="Final weighted-overlay suitability analysis for healthcare facility locations in Hallein"
+       width="90%">
+</p>
 
-The results demonstrate how multiple spatial criteria can be integrated into a GIS-based decision-support framework for healthcare facility planning.
+<p align="center">
+  <em>Final suitability output derived from the weighted-overlay analysis, integrating demographic, infrastructure, accessibility, land-cover, and terrain criteria.</em>
+</p>
 
----
+### Candidate Healthcare Sites
+
+The final analysis identified **six potential healthcare facility locations**:
+
+- **Four candidate sites** are located within highly suitable zones.
+- **Two candidate sites** occur within moderately suitable combinations of suitability zones.
+
+<p align="center">
+  <img src="assets/images/ombh-candidate-sites.png"
+       alt="Six candidate healthcare facility locations identified in Hallein"
+       width="90%">
+</p>
+
+<p align="center">
+  <em>Six candidate healthcare facility locations identified from the final suitability assessment.</em>
+</p>
+
+These results demonstrate how multiple spatial criteria can be integrated within a GIS-based decision-support workflow to support healthcare facility planning and location assessment.
 
 ## 🛠️ Technologies & Tools
 
