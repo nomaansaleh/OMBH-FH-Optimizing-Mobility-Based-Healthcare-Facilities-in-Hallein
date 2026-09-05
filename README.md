@@ -16,6 +16,7 @@ The project combines environmental, demographic, infrastructure, and accessibili
 <p align="center">
   <em>Interactive Web GIS for exploring suitable healthcare locations and multimodal accessibility in Hallein, Austria.</em>
 </p>
+
 ---
 
 ## 🌐 Explore the Project
