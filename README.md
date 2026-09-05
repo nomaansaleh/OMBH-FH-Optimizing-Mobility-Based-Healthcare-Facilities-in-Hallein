@@ -7,6 +7,15 @@ OMBH-FH explores how **spatial analysis, multi-criteria suitability modelling, m
 
 The project combines environmental, demographic, infrastructure, and accessibility factors to identify suitable locations for healthcare facilities and communicates the results through an **interactive Web GIS application** and an **ArcGIS StoryMap**.
 
+<p align="center">
+  <img src="assets/images/ombh-webgis-overview.png"
+       alt="OMBH-FH Interactive Web GIS showing healthcare suitability and mobility analysis in Hallein, Austria"
+       width="100%">
+</p>
+
+<p align="center">
+  <em>Interactive Web GIS for exploring suitable healthcare locations and multimodal accessibility in Hallein, Austria.</em>
+</p>
 ---
 
 ## 🌐 Explore the Project
