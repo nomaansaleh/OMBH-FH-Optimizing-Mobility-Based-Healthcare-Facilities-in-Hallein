@@ -21,13 +21,10 @@ The project combines environmental, demographic, infrastructure, and accessibili
 
 ## 🌐 Explore the Project
 
-### 🗺️ Interactive Web GIS
-[Open the Interactive Web Map](https://nomaansaleh.github.io/OMBH-FH-Optimizing-Mobility-Based-Healthcare-Facilities-in-Hallein/)
-
-### 📖 ArcGIS StoryMap
-[Explore the Project StoryMap](https://arcg.is/0O45OP1)
-
----
+| 🗺️ Interactive Web GIS | 📖 ArcGIS StoryMap |
+|---|---|
+| Explore suitable healthcare locations, spatial layers, and mobility/accessibility relationships through the interactive mapping application. | Explore the complete analytical workflow, spatial criteria, suitability analysis, maps, results, and project conclusions. |
+| **[Launch Interactive Web GIS →](https://nomaansaleh.github.io/OMBH-FH-Optimizing-Mobility-Based-Healthcare-Facilities-in-Hallein/)** | **[View ArcGIS StoryMap →](https://arcg.is/0O45OP1)** |
 
 ## 📌 Project Overview
 
